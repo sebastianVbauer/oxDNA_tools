@@ -15,5 +15,7 @@ Instructions on how to use the tools is given as introductory comments at the to
 
 ## Licence
 Published under cc-by-sa 4.0, cf. https://creativecommons.org/licenses/by-sa/4.0/
--- Sebastian V. Bauer, University of Mainz
--- sebastian.bauer@uni-mainz.de
+
+-- Sebastian V. Bauer, sebastian.bauer@uni-mainz.de
+
+-- Walther Lab at the University of Mainz, https://www.walther-group.com/
